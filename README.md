@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ankita</h1>
-<h3 align="center">A passionate fullStack developer & a Technical Product Owner from USA</h3>
+<h3 align="center">A passionate FullStack Developer & a Technical Product Owner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitadevadiga555&label=Profile%20views&color=0e75b6&style=flat" alt="ankitadevadiga555" /> </p>
 
